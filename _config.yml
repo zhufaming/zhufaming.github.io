@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: zhufaming Blog
+title: 朱发明 博客
 subtitle: IOS开发工程师|OC|Swift|Java|Go
 author: 朱发明
 language: zh-Hans
@@ -22,7 +22,7 @@ permalink_defaults:
 SEOTitle: 朱发明 | 欢迎你
 email: zhufaming88@163.com
 description: "业精于勤，荒于嬉；行成于思，毁于随"
-keyword: ""
+keyword: "ios 高级开发工程师,重庆,程序员,算法,AI，Python,Go,Java"
 header-img: img/header_img/home-bg-2-dark.png
 signature: true #show signature
 signature-img: img/signature/name.png 
@@ -168,7 +168,7 @@ markdown:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-
+##theme: beantech
 #sitemap
 sitemap:
   path: sitemap.xml

@@ -5,3 +5,9 @@
 # https://github.com/chriskempson/tomorrow-theme
 # night yilia - https://github.com/litten/hexo-theme-yilia
 highlight_theme: night
+
+menu:
+首页: /
+归档: /archives
+标签: /tags
+分类: /categories
